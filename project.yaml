@@ -26,7 +26,7 @@ repositories:
 
 website: "https://kitops.org/"
 
-artwork: "https://landscape.cncf.io/logos/kitops.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/kitops"
 
 # TODO: Add ADOPTERS.md if your project tracks adopters
 # adopters:
